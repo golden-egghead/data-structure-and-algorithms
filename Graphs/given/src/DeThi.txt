@@ -1,0 +1,12 @@
+        f1()
+         * Question: Perform breadth-first search on the graph.
+         * Starting from the vertex C (which index is 2), ONLY display the vertex right after C up to the next 4 vertices. 
+         * Hint: copy breadth(...) to breadth_2(...) and modify the method breadth_2(...) appropriately.
+         * The output f1() will be written into file 'f1.txt'. 
+         * Therefore you should open this file to see/test your code output.
+         * Example: With the graph provided in 'data.txt', the content of 'f1.txt' after running this method is 
+         *          C  F  H  B  E  I  A  D  G
+         *          F  H  B  E
+
+
+         f2()
